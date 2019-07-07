@@ -7,10 +7,3 @@ The assignment required inserting, finding and deleting words (or nodes in gener
 
 For simplicity every node corresponds to the first letter of its word.
 
-example:
-
-   d        
-  d   i 
-b    g   l  
- b  d  j   s
-        l l 
